@@ -1,0 +1,2672 @@
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 0
+Shortest route found is: 1045798.320844252
+Runtime: 0.41557765007019043
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 1
+Shortest route found is: 1045798.320844252
+Runtime: 5.1241676807403564
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 2
+Shortest route found is: 1022696.9690446707
+Runtime: 10.066891431808472
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 3
+Shortest route found is: 1022696.9690446707
+Runtime: 18.581071376800537
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 4
+Shortest route found is: 1022696.9690446707
+Runtime: 27.818614959716797
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 5
+Shortest route found is: 1022696.9690446707
+Runtime: 36.61318302154541
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 6
+Shortest route found is: 1022696.9690446707
+Runtime: 45.943764448165894
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 7
+Shortest route found is: 1022696.9690446707
+Runtime: 53.843348264694214
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 8
+Shortest route found is: 1022696.9690446707
+Runtime: 61.89884352684021
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 9
+Shortest route found is: 1016740.3567945487
+Runtime: 69.96760511398315
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 10
+Shortest route found is: 1016740.3567945487
+Runtime: 77.16815996170044
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 11
+Shortest route found is: 1016740.3567945487
+Runtime: 84.40757155418396
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 12
+Shortest route found is: 1010193.1008663182
+Runtime: 91.78754544258118
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 13
+Shortest route found is: 1006166.1123250924
+Runtime: 99.33881831169128
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 14
+Shortest route found is: 1006166.1123250924
+Runtime: 106.26581335067749
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 15
+Shortest route found is: 1006166.1123250924
+Runtime: 114.10245966911316
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 16
+Shortest route found is: 1006166.1123250924
+Runtime: 121.70781135559082
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 17
+Shortest route found is: 1006166.1123250924
+Runtime: 128.8514049053192
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 18
+Shortest route found is: 1006166.1123250924
+Runtime: 136.3331880569458
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 19
+Shortest route found is: 1006166.1123250924
+Runtime: 143.60016059875488
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 20
+Shortest route found is: 1006166.1123250924
+Runtime: 152.5798363685608
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 21
+Shortest route found is: 1006166.1123250924
+Runtime: 162.3064513206482
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 22
+Shortest route found is: 1006166.1123250924
+Runtime: 171.9481279850006
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 23
+Shortest route found is: 1006166.1123250924
+Runtime: 182.3756880760193
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 24
+Shortest route found is: 1006166.1123250924
+Runtime: 191.80688285827637
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 25
+Shortest route found is: 1006166.1123250924
+Runtime: 202.04938220977783
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 26
+Shortest route found is: 1006166.1123250924
+Runtime: 210.61204147338867
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 27
+Shortest route found is: 1006166.1123250924
+Runtime: 218.68702673912048
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 28
+Shortest route found is: 1006166.1123250924
+Runtime: 226.06450605392456
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 29
+Shortest route found is: 1006166.1123250924
+Runtime: 234.2692790031433
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 30
+Shortest route found is: 1006166.1123250924
+Runtime: 241.45695686340332
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 31
+Shortest route found is: 1006166.1123250924
+Runtime: 248.57670164108276
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 32
+Shortest route found is: 1006166.1123250924
+Runtime: 256.1170537471771
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 33
+Shortest route found is: 1006166.1123250924
+Runtime: 263.9473204612732
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 34
+Shortest route found is: 1006166.1123250924
+Runtime: 271.47135877609253
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 35
+Shortest route found is: 1006166.1123250924
+Runtime: 278.5252914428711
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 36
+Shortest route found is: 1006166.1123250924
+Runtime: 286.3828864097595
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 37
+Shortest route found is: 1006166.1123250924
+Runtime: 293.96225905418396
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 38
+Shortest route found is: 1006166.1123250924
+Runtime: 302.0143311023712
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 39
+Shortest route found is: 1006166.1123250924
+Runtime: 310.8385400772095
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 40
+Shortest route found is: 1006166.1123250924
+Runtime: 321.6324498653412
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 41
+Shortest route found is: 1006166.1123250924
+Runtime: 329.2973279953003
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 42
+Shortest route found is: 1006166.1123250924
+Runtime: 337.4468529224396
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 43
+Shortest route found is: 1006166.1123250924
+Runtime: 345.6750147342682
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 44
+Shortest route found is: 1006166.1123250924
+Runtime: 353.47947669029236
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 45
+Shortest route found is: 1006166.1123250924
+Runtime: 361.31561303138733
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 46
+Shortest route found is: 1006166.1123250924
+Runtime: 368.7425625324249
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 47
+Shortest route found is: 1006166.1123250924
+Runtime: 377.21495151519775
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 48
+Shortest route found is: 1006166.1123250924
+Runtime: 386.77854347229004
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 49
+Shortest route found is: 1006166.1123250924
+Runtime: 395.64708638191223
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 50
+Shortest route found is: 1006166.1123250924
+Runtime: 402.87466621398926
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 51
+Shortest route found is: 1006166.1123250924
+Runtime: 409.82510685920715
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 52
+Shortest route found is: 1006166.1123250924
+Runtime: 417.2786557674408
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 53
+Shortest route found is: 1006166.1123250924
+Runtime: 424.3191726207733
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 54
+Shortest route found is: 1006166.1123250924
+Runtime: 431.49846959114075
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 55
+Shortest route found is: 1006166.1123250924
+Runtime: 438.52151441574097
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 56
+Shortest route found is: 1006166.1123250924
+Runtime: 446.21038818359375
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 57
+Shortest route found is: 1006166.1123250924
+Runtime: 453.33532214164734
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 58
+Shortest route found is: 1006166.1123250924
+Runtime: 461.001234292984
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 59
+Shortest route found is: 1006166.1123250924
+Runtime: 469.4960651397705
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 60
+Shortest route found is: 1006166.1123250924
+Runtime: 476.7922360897064
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 61
+Shortest route found is: 1006166.1123250924
+Runtime: 484.25639820098877
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 62
+Shortest route found is: 1006166.1123250924
+Runtime: 491.42801880836487
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 63
+Shortest route found is: 1006166.1123250924
+Runtime: 498.4437503814697
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 64
+Shortest route found is: 1006166.1123250924
+Runtime: 506.3120243549347
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 65
+Shortest route found is: 1006166.1123250924
+Runtime: 513.5566327571869
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 66
+Shortest route found is: 1006166.1123250924
+Runtime: 521.4913110733032
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 67
+Shortest route found is: 1006166.1123250924
+Runtime: 528.9535799026489
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 68
+Shortest route found is: 1006166.1123250924
+Runtime: 535.8850362300873
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 69
+Shortest route found is: 1006166.1123250924
+Runtime: 542.9455318450928
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 70
+Shortest route found is: 1006166.1123250924
+Runtime: 549.737274646759
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 71
+Shortest route found is: 1006166.1123250924
+Runtime: 556.8517820835114
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 72
+Shortest route found is: 1006166.1123250924
+Runtime: 563.7531507015228
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 73
+Shortest route found is: 1006166.1123250924
+Runtime: 571.3154692649841
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 74
+Shortest route found is: 1006166.1123250924
+Runtime: 578.1660068035126
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 75
+Shortest route found is: 1006166.1123250924
+Runtime: 584.9073407649994
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 76
+Shortest route found is: 1006166.1123250924
+Runtime: 591.8374438285828
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 77
+Shortest route found is: 1006166.1123250924
+Runtime: 599.2877385616302
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 78
+Shortest route found is: 1006166.1123250924
+Runtime: 606.2030217647552
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 79
+Shortest route found is: 1006166.1123250924
+Runtime: 613.128924369812
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 80
+Shortest route found is: 1006166.1123250924
+Runtime: 620.5087940692902
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 81
+Shortest route found is: 1006166.1123250924
+Runtime: 627.7090661525726
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 82
+Shortest route found is: 1006166.1123250924
+Runtime: 634.8579490184784
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 83
+Shortest route found is: 1006166.1123250924
+Runtime: 643.166122674942
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 84
+Shortest route found is: 1006166.1123250924
+Runtime: 652.8771874904633
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 85
+Shortest route found is: 1006166.1123250924
+Runtime: 660.5180416107178
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 86
+Shortest route found is: 1006166.1123250924
+Runtime: 668.4506139755249
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 87
+Shortest route found is: 1006166.1123250924
+Runtime: 676.5885984897614
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 88
+Shortest route found is: 1006166.1123250924
+Runtime: 683.7253632545471
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 89
+Shortest route found is: 1006166.1123250924
+Runtime: 690.5598244667053
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 90
+Shortest route found is: 1006166.1123250924
+Runtime: 697.2533404827118
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 91
+Shortest route found is: 1006166.1123250924
+Runtime: 704.0956654548645
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 92
+Shortest route found is: 1006166.1123250924
+Runtime: 710.9479656219482
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 93
+Shortest route found is: 1006166.1123250924
+Runtime: 718.849378824234
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 94
+Shortest route found is: 1006166.1123250924
+Runtime: 728.9003283977509
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 95
+Shortest route found is: 1006166.1123250924
+Runtime: 736.6310906410217
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 96
+Shortest route found is: 1006166.1123250924
+Runtime: 745.2856481075287
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 97
+Shortest route found is: 1006166.1123250924
+Runtime: 756.0874197483063
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 98
+Shortest route found is: 1006166.1123250924
+Runtime: 766.332624912262
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 99
+Shortest route found is: 1006166.1123250924
+Runtime: 775.8304712772369
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 100
+Shortest route found is: 1006166.1123250924
+Runtime: 784.6145191192627
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 101
+Shortest route found is: 1006166.1123250924
+Runtime: 792.8079137802124
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 102
+Shortest route found is: 1006166.1123250924
+Runtime: 800.4976873397827
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 103
+Shortest route found is: 1006166.1123250924
+Runtime: 808.9475367069244
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 104
+Shortest route found is: 1006166.1123250924
+Runtime: 815.8184652328491
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 105
+Shortest route found is: 1006166.1123250924
+Runtime: 824.9710392951965
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 106
+Shortest route found is: 1006166.1123250924
+Runtime: 833.9720213413239
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 107
+Shortest route found is: 1006166.1123250924
+Runtime: 842.4082744121552
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 108
+Shortest route found is: 1006166.1123250924
+Runtime: 849.6222994327545
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 109
+Shortest route found is: 1006166.1123250924
+Runtime: 856.7315580844879
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 110
+Shortest route found is: 1006166.1123250924
+Runtime: 864.9004774093628
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 111
+Shortest route found is: 1006166.1123250924
+Runtime: 873.0345051288605
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 112
+Shortest route found is: 1006166.1123250924
+Runtime: 880.9662392139435
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 113
+Shortest route found is: 1006166.1123250924
+Runtime: 888.7276961803436
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 114
+Shortest route found is: 1006166.1123250924
+Runtime: 897.4552564620972
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 115
+Shortest route found is: 1006166.1123250924
+Runtime: 906.0396070480347
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 116
+Shortest route found is: 1006166.1123250924
+Runtime: 914.8877906799316
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 117
+Shortest route found is: 1006166.1123250924
+Runtime: 922.4625096321106
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 118
+Shortest route found is: 1006166.1123250924
+Runtime: 929.28022813797
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 119
+Shortest route found is: 1006166.1123250924
+Runtime: 937.4329209327698
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 120
+Shortest route found is: 1006166.1123250924
+Runtime: 945.5198645591736
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 121
+Shortest route found is: 1006166.1123250924
+Runtime: 952.2977092266083
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 122
+Shortest route found is: 1006166.1123250924
+Runtime: 960.1436903476715
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 123
+Shortest route found is: 1006166.1123250924
+Runtime: 967.3810656070709
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 124
+Shortest route found is: 1006166.1123250924
+Runtime: 974.3985695838928
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 125
+Shortest route found is: 1006166.1123250924
+Runtime: 981.5016345977783
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 126
+Shortest route found is: 1006166.1123250924
+Runtime: 988.3572061061859
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 127
+Shortest route found is: 1006166.1123250924
+Runtime: 995.4524636268616
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 128
+Shortest route found is: 1006166.1123250924
+Runtime: 1003.3931496143341
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 129
+Shortest route found is: 1006166.1123250924
+Runtime: 1010.7475130558014
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 130
+Shortest route found is: 1006166.1123250924
+Runtime: 1019.1793456077576
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 131
+Shortest route found is: 1006166.1123250924
+Runtime: 1027.2162981033325
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 132
+Shortest route found is: 1006166.1123250924
+Runtime: 1035.0060641765594
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 133
+Shortest route found is: 1006166.1123250924
+Runtime: 1042.8642897605896
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 134
+Shortest route found is: 1006166.1123250924
+Runtime: 1050.8606126308441
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 135
+Shortest route found is: 1006166.1123250924
+Runtime: 1058.524777173996
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 136
+Shortest route found is: 1006166.1123250924
+Runtime: 1065.8475875854492
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 137
+Shortest route found is: 1006166.1123250924
+Runtime: 1074.2356567382812
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 138
+Shortest route found is: 1006166.1123250924
+Runtime: 1082.205017566681
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 139
+Shortest route found is: 1006166.1123250924
+Runtime: 1090.9331848621368
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 140
+Shortest route found is: 1006166.1123250924
+Runtime: 1099.2787156105042
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 141
+Shortest route found is: 1006166.1123250924
+Runtime: 1106.9281091690063
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 142
+Shortest route found is: 1006166.1123250924
+Runtime: 1113.6179101467133
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 143
+Shortest route found is: 1006166.1123250924
+Runtime: 1121.2788166999817
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 144
+Shortest route found is: 1006166.1123250924
+Runtime: 1130.5770552158356
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 145
+Shortest route found is: 1006166.1123250924
+Runtime: 1138.9398605823517
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 146
+Shortest route found is: 1006166.1123250924
+Runtime: 1146.4430658817291
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 147
+Shortest route found is: 1006166.1123250924
+Runtime: 1153.7548568248749
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 148
+Shortest route found is: 1006166.1123250924
+Runtime: 1161.4684219360352
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 149
+Shortest route found is: 1006166.1123250924
+Runtime: 1168.0725796222687
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 150
+Shortest route found is: 1006166.1123250924
+Runtime: 1175.3729429244995
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 151
+Shortest route found is: 1006166.1123250924
+Runtime: 1182.2599754333496
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 152
+Shortest route found is: 1006166.1123250924
+Runtime: 1189.0324440002441
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 153
+Shortest route found is: 1006166.1123250924
+Runtime: 1196.2395627498627
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 154
+Shortest route found is: 1006166.1123250924
+Runtime: 1203.9842700958252
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 155
+Shortest route found is: 1006166.1123250924
+Runtime: 1211.4668173789978
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 156
+Shortest route found is: 1006166.1123250924
+Runtime: 1219.3913843631744
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 157
+Shortest route found is: 1006166.1123250924
+Runtime: 1226.9841136932373
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 158
+Shortest route found is: 1006166.1123250924
+Runtime: 1233.6317999362946
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 159
+Shortest route found is: 1006166.1123250924
+Runtime: 1241.0959537029266
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 160
+Shortest route found is: 1006166.1123250924
+Runtime: 1248.4736697673798
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 161
+Shortest route found is: 1006166.1123250924
+Runtime: 1255.7570476531982
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 162
+Shortest route found is: 1006166.1123250924
+Runtime: 1262.513775587082
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 163
+Shortest route found is: 1006166.1123250924
+Runtime: 1269.4291229248047
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 164
+Shortest route found is: 1006166.1123250924
+Runtime: 1276.6019566059113
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 165
+Shortest route found is: 1006166.1123250924
+Runtime: 1284.0987203121185
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 166
+Shortest route found is: 1006166.1123250924
+Runtime: 1290.8997638225555
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 167
+Shortest route found is: 1006166.1123250924
+Runtime: 1297.7574050426483
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 168
+Shortest route found is: 1006166.1123250924
+Runtime: 1304.5938124656677
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 169
+Shortest route found is: 1006166.1123250924
+Runtime: 1311.3339493274689
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 170
+Shortest route found is: 1006166.1123250924
+Runtime: 1318.0960838794708
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 171
+Shortest route found is: 1006166.1123250924
+Runtime: 1324.7747428417206
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 172
+Shortest route found is: 1006166.1123250924
+Runtime: 1331.525624513626
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 173
+Shortest route found is: 1006166.1123250924
+Runtime: 1338.769160270691
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 174
+Shortest route found is: 1006166.1123250924
+Runtime: 1346.2892649173737
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 175
+Shortest route found is: 1006166.1123250924
+Runtime: 1353.0178842544556
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 176
+Shortest route found is: 1006166.1123250924
+Runtime: 1359.634830713272
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 177
+Shortest route found is: 1006166.1123250924
+Runtime: 1367.4753651618958
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 178
+Shortest route found is: 1006166.1123250924
+Runtime: 1377.1609542369843
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 179
+Shortest route found is: 1006166.1123250924
+Runtime: 1385.492846250534
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 180
+Shortest route found is: 1006166.1123250924
+Runtime: 1393.35662150383
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 181
+Shortest route found is: 1006166.1123250924
+Runtime: 1403.5839314460754
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 182
+Shortest route found is: 1006166.1123250924
+Runtime: 1413.7040469646454
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 183
+Shortest route found is: 1006166.1123250924
+Runtime: 1424.7129139900208
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 184
+Shortest route found is: 1006166.1123250924
+Runtime: 1434.7296147346497
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 185
+Shortest route found is: 1006166.1123250924
+Runtime: 1446.3606867790222
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 186
+Shortest route found is: 1006166.1123250924
+Runtime: 1457.9666481018066
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 187
+Shortest route found is: 1006166.1123250924
+Runtime: 1468.7328884601593
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 188
+Shortest route found is: 1006166.1123250924
+Runtime: 1479.3730533123016
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 189
+Shortest route found is: 1006166.1123250924
+Runtime: 1489.6914641857147
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 190
+Shortest route found is: 1006166.1123250924
+Runtime: 1499.136818408966
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 191
+Shortest route found is: 1006166.1123250924
+Runtime: 1510.7647368907928
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 192
+Shortest route found is: 1006166.1123250924
+Runtime: 1520.2983610630035
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 193
+Shortest route found is: 1006166.1123250924
+Runtime: 1528.6517565250397
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 194
+Shortest route found is: 1006166.1123250924
+Runtime: 1537.6681830883026
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 195
+Shortest route found is: 1006166.1123250924
+Runtime: 1546.250020980835
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 196
+Shortest route found is: 1006166.1123250924
+Runtime: 1553.7787415981293
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 197
+Shortest route found is: 1006166.1123250924
+Runtime: 1561.0666935443878
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 198
+Shortest route found is: 1006166.1123250924
+Runtime: 1568.0229403972626
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 199
+Shortest route found is: 1006166.1123250924
+Runtime: 1574.7248067855835
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 200
+Shortest route found is: 1006166.1123250924
+Runtime: 1581.8834612369537
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 201
+Shortest route found is: 1006166.1123250924
+Runtime: 1588.58163022995
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 202
+Shortest route found is: 1006166.1123250924
+Runtime: 1595.4342663288116
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 203
+Shortest route found is: 1006166.1123250924
+Runtime: 1602.7409431934357
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 204
+Shortest route found is: 1006166.1123250924
+Runtime: 1610.1164455413818
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 205
+Shortest route found is: 1006166.1123250924
+Runtime: 1617.5801119804382
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 206
+Shortest route found is: 1006166.1123250924
+Runtime: 1624.7471342086792
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 207
+Shortest route found is: 1006166.1123250924
+Runtime: 1632.1286327838898
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 208
+Shortest route found is: 1006166.1123250924
+Runtime: 1640.0201170444489
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 209
+Shortest route found is: 1006166.1123250924
+Runtime: 1648.0983347892761
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 210
+Shortest route found is: 1006166.1123250924
+Runtime: 1655.7783570289612
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 211
+Shortest route found is: 1006166.1123250924
+Runtime: 1663.2301330566406
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 212
+Shortest route found is: 1006166.1123250924
+Runtime: 1670.2389056682587
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 213
+Shortest route found is: 1006166.1123250924
+Runtime: 1676.857122182846
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 214
+Shortest route found is: 1006166.1123250924
+Runtime: 1683.7674491405487
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 215
+Shortest route found is: 1006166.1123250924
+Runtime: 1690.7456605434418
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 216
+Shortest route found is: 1006166.1123250924
+Runtime: 1697.9936907291412
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 217
+Shortest route found is: 1006166.1123250924
+Runtime: 1705.2694623470306
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 218
+Shortest route found is: 1006166.1123250924
+Runtime: 1712.1194052696228
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 219
+Shortest route found is: 1006166.1123250924
+Runtime: 1719.0364542007446
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 220
+Shortest route found is: 1006166.1123250924
+Runtime: 1725.9357573986053
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 221
+Shortest route found is: 1006166.1123250924
+Runtime: 1732.9068126678467
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 222
+Shortest route found is: 1006166.1123250924
+Runtime: 1739.798371553421
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 223
+Shortest route found is: 1006166.1123250924
+Runtime: 1746.8922953605652
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 224
+Shortest route found is: 1006166.1123250924
+Runtime: 1753.791533946991
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 225
+Shortest route found is: 1006166.1123250924
+Runtime: 1761.3208060264587
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 226
+Shortest route found is: 1006166.1123250924
+Runtime: 1768.1502826213837
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 227
+Shortest route found is: 1006166.1123250924
+Runtime: 1774.8661997318268
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 228
+Shortest route found is: 1006166.1123250924
+Runtime: 1781.902684211731
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 229
+Shortest route found is: 1006166.1123250924
+Runtime: 1789.1375558376312
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 230
+Shortest route found is: 1006166.1123250924
+Runtime: 1795.9790959358215
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 231
+Shortest route found is: 1006166.1123250924
+Runtime: 1803.1321856975555
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 232
+Shortest route found is: 1006166.1123250924
+Runtime: 1810.434626340866
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 233
+Shortest route found is: 1006166.1123250924
+Runtime: 1817.6153891086578
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 234
+Shortest route found is: 1006166.1123250924
+Runtime: 1824.8779771327972
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 235
+Shortest route found is: 1006166.1123250924
+Runtime: 1831.8044321537018
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 236
+Shortest route found is: 1006166.1123250924
+Runtime: 1839.0741987228394
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 237
+Shortest route found is: 1006166.1123250924
+Runtime: 1846.5349934101105
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 238
+Shortest route found is: 1006166.1123250924
+Runtime: 1853.3308103084564
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 239
+Shortest route found is: 1006166.1123250924
+Runtime: 1860.4314515590668
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 240
+Shortest route found is: 1006166.1123250924
+Runtime: 1867.4771304130554
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 241
+Shortest route found is: 1006166.1123250924
+Runtime: 1874.2766454219818
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 242
+Shortest route found is: 1006166.1123250924
+Runtime: 1880.971405506134
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 243
+Shortest route found is: 1006166.1123250924
+Runtime: 1888.2068021297455
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 244
+Shortest route found is: 1006166.1123250924
+Runtime: 1895.4540529251099
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 245
+Shortest route found is: 1006166.1123250924
+Runtime: 1902.6150243282318
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 246
+Shortest route found is: 1006166.1123250924
+Runtime: 1909.6520311832428
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 247
+Shortest route found is: 1006166.1123250924
+Runtime: 1916.8209581375122
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 248
+Shortest route found is: 1006166.1123250924
+Runtime: 1924.4558959007263
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 249
+Shortest route found is: 1006166.1123250924
+Runtime: 1932.2578868865967
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 250
+Shortest route found is: 1006166.1123250924
+Runtime: 1939.9907603263855
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 251
+Shortest route found is: 1006166.1123250924
+Runtime: 1948.0206236839294
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 252
+Shortest route found is: 1006166.1123250924
+Runtime: 1955.089625120163
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 253
+Shortest route found is: 1006166.1123250924
+Runtime: 1962.4521827697754
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 254
+Shortest route found is: 1006166.1123250924
+Runtime: 1969.7457404136658
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 255
+Shortest route found is: 1006166.1123250924
+Runtime: 1977.1109085083008
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 256
+Shortest route found is: 1006166.1123250924
+Runtime: 1984.4357905387878
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 257
+Shortest route found is: 1006166.1123250924
+Runtime: 1991.7127590179443
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 258
+Shortest route found is: 1006166.1123250924
+Runtime: 1998.8267767429352
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 259
+Shortest route found is: 1006166.1123250924
+Runtime: 2005.8488779067993
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 260
+Shortest route found is: 1006166.1123250924
+Runtime: 2013.2906653881073
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 261
+Shortest route found is: 1006166.1123250924
+Runtime: 2022.233350276947
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 262
+Shortest route found is: 1006166.1123250924
+Runtime: 2031.2961778640747
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 263
+Shortest route found is: 1006166.1123250924
+Runtime: 2038.9969642162323
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 264
+Shortest route found is: 1006166.1123250924
+Runtime: 2046.7602310180664
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 265
+Shortest route found is: 1006166.1123250924
+Runtime: 2054.2920734882355
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 266
+Shortest route found is: 1006166.1123250924
+Runtime: 2062.5153818130493
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 267
+Shortest route found is: 1006166.1123250924
+Runtime: 2070.9906084537506
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 268
+Shortest route found is: 1006166.1123250924
+Runtime: 2080.587369441986
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 269
+Shortest route found is: 1006166.1123250924
+Runtime: 2092.8851623535156
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 270
+Shortest route found is: 1006166.1123250924
+Runtime: 2103.1033506393433
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 271
+Shortest route found is: 1006166.1123250924
+Runtime: 2112.3683021068573
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 272
+Shortest route found is: 1006166.1123250924
+Runtime: 2121.7690510749817
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 273
+Shortest route found is: 1006166.1123250924
+Runtime: 2132.136676311493
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 274
+Shortest route found is: 1006166.1123250924
+Runtime: 2142.904413461685
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 275
+Shortest route found is: 1006166.1123250924
+Runtime: 2151.4558939933777
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 276
+Shortest route found is: 1006166.1123250924
+Runtime: 2161.252095222473
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 277
+Shortest route found is: 1006166.1123250924
+Runtime: 2169.837052345276
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 278
+Shortest route found is: 1006166.1123250924
+Runtime: 2178.871716737747
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 279
+Shortest route found is: 1006166.1123250924
+Runtime: 2187.225519657135
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 280
+Shortest route found is: 1006166.1123250924
+Runtime: 2195.360331296921
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 281
+Shortest route found is: 1006166.1123250924
+Runtime: 2204.705842733383
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 282
+Shortest route found is: 1006166.1123250924
+Runtime: 2214.3556909561157
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 283
+Shortest route found is: 1006166.1123250924
+Runtime: 2224.2184607982635
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 284
+Shortest route found is: 1006166.1123250924
+Runtime: 2233.8294661045074
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 285
+Shortest route found is: 1006166.1123250924
+Runtime: 2242.9036390781403
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 286
+Shortest route found is: 1006166.1123250924
+Runtime: 2251.4595305919647
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 287
+Shortest route found is: 1006166.1123250924
+Runtime: 2261.225262403488
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 288
+Shortest route found is: 1006166.1123250924
+Runtime: 2271.5155544281006
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 289
+Shortest route found is: 1006166.1123250924
+Runtime: 2281.3904886245728
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 290
+Shortest route found is: 1006166.1123250924
+Runtime: 2291.479320526123
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 291
+Shortest route found is: 1006166.1123250924
+Runtime: 2301.8405344486237
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 292
+Shortest route found is: 1006166.1123250924
+Runtime: 2310.6219177246094
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 293
+Shortest route found is: 1006166.1123250924
+Runtime: 2320.4038660526276
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 294
+Shortest route found is: 1006166.1123250924
+Runtime: 2329.3401596546173
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 295
+Shortest route found is: 1006166.1123250924
+Runtime: 2338.643271446228
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 296
+Shortest route found is: 1006166.1123250924
+Runtime: 2347.723057985306
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 297
+Shortest route found is: 1006166.1123250924
+Runtime: 2357.4719774723053
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 298
+Shortest route found is: 1006166.1123250924
+Runtime: 2367.4000084400177
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 299
+Shortest route found is: 1006166.1123250924
+Runtime: 2376.796945333481
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 300
+Shortest route found is: 1006166.1123250924
+Runtime: 2386.380088329315
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 301
+Shortest route found is: 1006166.1123250924
+Runtime: 2396.340145587921
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 302
+Shortest route found is: 1006166.1123250924
+Runtime: 2405.352315425873
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 303
+Shortest route found is: 1006166.1123250924
+Runtime: 2414.9195868968964
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 304
+Shortest route found is: 1006166.1123250924
+Runtime: 2424.796204328537
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 305
+Shortest route found is: 1006166.1123250924
+Runtime: 2433.629856824875
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 306
+Shortest route found is: 1006166.1123250924
+Runtime: 2442.433586359024
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 307
+Shortest route found is: 1006166.1123250924
+Runtime: 2451.802609682083
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 308
+Shortest route found is: 1006166.1123250924
+Runtime: 2459.8922963142395
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 309
+Shortest route found is: 1006166.1123250924
+Runtime: 2468.1963770389557
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 310
+Shortest route found is: 1006166.1123250924
+Runtime: 2476.019335746765
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 311
+Shortest route found is: 1006166.1123250924
+Runtime: 2484.5413892269135
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 312
+Shortest route found is: 1006166.1123250924
+Runtime: 2492.378363609314
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 313
+Shortest route found is: 1006166.1123250924
+Runtime: 2502.3040878772736
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 314
+Shortest route found is: 1006166.1123250924
+Runtime: 2511.7149324417114
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 315
+Shortest route found is: 1006166.1123250924
+Runtime: 2520.0669326782227
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 316
+Shortest route found is: 1006166.1123250924
+Runtime: 2529.0944979190826
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 317
+Shortest route found is: 1006166.1123250924
+Runtime: 2538.217901945114
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 318
+Shortest route found is: 1006166.1123250924
+Runtime: 2547.5515599250793
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 319
+Shortest route found is: 1006166.1123250924
+Runtime: 2556.6575453281403
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 320
+Shortest route found is: 1006166.1123250924
+Runtime: 2566.952599287033
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 321
+Shortest route found is: 1006166.1123250924
+Runtime: 2575.5346295833588
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 322
+Shortest route found is: 1006166.1123250924
+Runtime: 2584.2820472717285
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 323
+Shortest route found is: 1006166.1123250924
+Runtime: 2593.00421833992
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 324
+Shortest route found is: 1006166.1123250924
+Runtime: 2601.453629016876
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 325
+Shortest route found is: 1006166.1123250924
+Runtime: 2610.0209929943085
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 326
+Shortest route found is: 1006166.1123250924
+Runtime: 2619.0999703407288
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 327
+Shortest route found is: 1006166.1123250924
+Runtime: 2629.3324584960938
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 328
+Shortest route found is: 1006166.1123250924
+Runtime: 2638.3981964588165
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 329
+Shortest route found is: 1006166.1123250924
+Runtime: 2646.8681559562683
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 330
+Shortest route found is: 1006166.1123250924
+Runtime: 2654.639497756958
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 331
+Shortest route found is: 1006166.1123250924
+Runtime: 2662.6443016529083
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 332
+Shortest route found is: 1006166.1123250924
+Runtime: 2670.77819108963
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 333
+Shortest route found is: 1006166.1123250924
+Runtime: 2678.1916291713715
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 334
+Shortest route found is: 1006166.1123250924
+Runtime: 2686.729757785797
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 335
+Shortest route found is: 1006166.1123250924
+Runtime: 2693.935973882675
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 336
+Shortest route found is: 1006166.1123250924
+Runtime: 2701.284599542618
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 337
+Shortest route found is: 1006166.1123250924
+Runtime: 2708.5051062107086
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 338
+Shortest route found is: 1006166.1123250924
+Runtime: 2715.899740934372
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 339
+Shortest route found is: 1006166.1123250924
+Runtime: 2723.561603307724
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 340
+Shortest route found is: 1006166.1123250924
+Runtime: 2730.849003314972
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 341
+Shortest route found is: 1006166.1123250924
+Runtime: 2738.6754570007324
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 342
+Shortest route found is: 1006166.1123250924
+Runtime: 2746.2853503227234
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 343
+Shortest route found is: 1006166.1123250924
+Runtime: 2754.3161997795105
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 344
+Shortest route found is: 1006166.1123250924
+Runtime: 2761.5357234477997
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 345
+Shortest route found is: 1006166.1123250924
+Runtime: 2768.917610168457
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 346
+Shortest route found is: 1006166.1123250924
+Runtime: 2775.9501984119415
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 347
+Shortest route found is: 1006166.1123250924
+Runtime: 2783.4798216819763
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 348
+Shortest route found is: 1006166.1123250924
+Runtime: 2791.246397256851
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 349
+Shortest route found is: 1006166.1123250924
+Runtime: 2799.112958431244
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 350
+Shortest route found is: 1006166.1123250924
+Runtime: 2806.4759805202484
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 351
+Shortest route found is: 1006166.1123250924
+Runtime: 2814.328503847122
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 352
+Shortest route found is: 1006166.1123250924
+Runtime: 2821.8266134262085
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 353
+Shortest route found is: 1006166.1123250924
+Runtime: 2829.635383605957
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 354
+Shortest route found is: 1006166.1123250924
+Runtime: 2836.854478597641
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 355
+Shortest route found is: 1006166.1123250924
+Runtime: 2845.153708457947
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 356
+Shortest route found is: 1006166.1123250924
+Runtime: 2853.863501548767
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 357
+Shortest route found is: 1006166.1123250924
+Runtime: 2862.0198163986206
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 358
+Shortest route found is: 1006166.1123250924
+Runtime: 2869.9302411079407
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 359
+Shortest route found is: 1006166.1123250924
+Runtime: 2877.1760528087616
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 360
+Shortest route found is: 1006166.1123250924
+Runtime: 2884.5000994205475
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 361
+Shortest route found is: 1006166.1123250924
+Runtime: 2891.6679327487946
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 362
+Shortest route found is: 1006166.1123250924
+Runtime: 2898.944266319275
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 363
+Shortest route found is: 1006166.1123250924
+Runtime: 2906.275720357895
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 364
+Shortest route found is: 1006166.1123250924
+Runtime: 2913.592277288437
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 365
+Shortest route found is: 1006166.1123250924
+Runtime: 2921.047476530075
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 366
+Shortest route found is: 1006166.1123250924
+Runtime: 2929.222918510437
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 367
+Shortest route found is: 1006166.1123250924
+Runtime: 2936.782371520996
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 368
+Shortest route found is: 1006166.1123250924
+Runtime: 2944.397876739502
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 369
+Shortest route found is: 1006166.1123250924
+Runtime: 2952.0743725299835
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 370
+Shortest route found is: 1006166.1123250924
+Runtime: 2959.8900129795074
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 371
+Shortest route found is: 1006166.1123250924
+Runtime: 2968.1050777435303
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 372
+Shortest route found is: 1006166.1123250924
+Runtime: 2975.1299176216125
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 373
+Shortest route found is: 1006166.1123250924
+Runtime: 2982.805713415146
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 374
+Shortest route found is: 1006166.1123250924
+Runtime: 2990.8587691783905
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 375
+Shortest route found is: 1006166.1123250924
+Runtime: 2998.150318145752
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 376
+Shortest route found is: 1006166.1123250924
+Runtime: 3005.6587924957275
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 377
+Shortest route found is: 1006166.1123250924
+Runtime: 3013.112768650055
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 378
+Shortest route found is: 1006166.1123250924
+Runtime: 3020.691730737686
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 379
+Shortest route found is: 1006166.1123250924
+Runtime: 3028.1209630966187
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 380
+Shortest route found is: 1006166.1123250924
+Runtime: 3035.6803708076477
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 381
+Shortest route found is: 1006166.1123250924
+Runtime: 3043.3144447803497
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 382
+Shortest route found is: 1006166.1123250924
+Runtime: 3050.4949898719788
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 383
+Shortest route found is: 1006166.1123250924
+Runtime: 3057.8383870124817
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 384
+Shortest route found is: 1006166.1123250924
+Runtime: 3065.7564041614532
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 385
+Shortest route found is: 1006166.1123250924
+Runtime: 3073.653290271759
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 386
+Shortest route found is: 1006166.1123250924
+Runtime: 3081.9673495292664
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 387
+Shortest route found is: 1006166.1123250924
+Runtime: 3089.2366604804993
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 388
+Shortest route found is: 1006166.1123250924
+Runtime: 3095.8291730880737
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 389
+Shortest route found is: 1006166.1123250924
+Runtime: 3103.570882320404
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 390
+Shortest route found is: 1006166.1123250924
+Runtime: 3111.011160850525
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 391
+Shortest route found is: 1006166.1123250924
+Runtime: 3118.112134695053
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 392
+Shortest route found is: 1006166.1123250924
+Runtime: 3125.021100759506
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 393
+Shortest route found is: 1006166.1123250924
+Runtime: 3132.4380955696106
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 394
+Shortest route found is: 1006166.1123250924
+Runtime: 3141.052822828293
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 395
+Shortest route found is: 1006166.1123250924
+Runtime: 3148.9033048152924
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 396
+Shortest route found is: 1006166.1123250924
+Runtime: 3156.274203300476
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 397
+Shortest route found is: 1006166.1123250924
+Runtime: 3164.3489713668823
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 398
+Shortest route found is: 1006166.1123250924
+Runtime: 3176.597625732422
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 399
+Shortest route found is: 1006166.1123250924
+Runtime: 3186.588084936142
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 400
+Shortest route found is: 1006166.1123250924
+Runtime: 3196.2584755420685
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 401
+Shortest route found is: 1006166.1123250924
+Runtime: 3205.5727591514587
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 402
+Shortest route found is: 1006166.1123250924
+Runtime: 3214.950319290161
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 403
+Shortest route found is: 1006166.1123250924
+Runtime: 3224.4070329666138
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 404
+Shortest route found is: 1006166.1123250924
+Runtime: 3233.4937019348145
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 405
+Shortest route found is: 1006166.1123250924
+Runtime: 3242.9279181957245
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 406
+Shortest route found is: 1006166.1123250924
+Runtime: 3252.5803985595703
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 407
+Shortest route found is: 1006166.1123250924
+Runtime: 3261.7262127399445
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 408
+Shortest route found is: 1006166.1123250924
+Runtime: 3271.050765275955
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 409
+Shortest route found is: 1006166.1123250924
+Runtime: 3280.371122598648
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 410
+Shortest route found is: 1006166.1123250924
+Runtime: 3289.3851466178894
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 411
+Shortest route found is: 1006166.1123250924
+Runtime: 3297.832619190216
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 412
+Shortest route found is: 1006166.1123250924
+Runtime: 3306.723347425461
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 413
+Shortest route found is: 1006166.1123250924
+Runtime: 3316.1358530521393
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 414
+Shortest route found is: 1006166.1123250924
+Runtime: 3325.1705825328827
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 415
+Shortest route found is: 1006166.1123250924
+Runtime: 3334.5874812602997
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 416
+Shortest route found is: 1006166.1123250924
+Runtime: 3344.2756526470184
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 417
+Shortest route found is: 1006166.1123250924
+Runtime: 3353.797951221466
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 418
+Shortest route found is: 1006166.1123250924
+Runtime: 3363.2718484401703
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 419
+Shortest route found is: 1006166.1123250924
+Runtime: 3372.7837615013123
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 420
+Shortest route found is: 1006166.1123250924
+Runtime: 3381.973569393158
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 421
+Shortest route found is: 1006166.1123250924
+Runtime: 3391.7444999217987
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 422
+Shortest route found is: 1006166.1123250924
+Runtime: 3401.507482290268
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 423
+Shortest route found is: 1006166.1123250924
+Runtime: 3410.3989865779877
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 424
+Shortest route found is: 1006166.1123250924
+Runtime: 3420.5795946121216
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 425
+Shortest route found is: 1006166.1123250924
+Runtime: 3430.369538784027
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 426
+Shortest route found is: 1006166.1123250924
+Runtime: 3439.7341990470886
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 427
+Shortest route found is: 1006166.1123250924
+Runtime: 3449.262994289398
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 428
+Shortest route found is: 1006166.1123250924
+Runtime: 3458.0217700004578
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 429
+Shortest route found is: 1006166.1123250924
+Runtime: 3466.9399909973145
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 430
+Shortest route found is: 1006166.1123250924
+Runtime: 3476.02116894722
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 431
+Shortest route found is: 1006166.1123250924
+Runtime: 3484.7291209697723
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 432
+Shortest route found is: 1006166.1123250924
+Runtime: 3493.341058731079
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 433
+Shortest route found is: 1006166.1123250924
+Runtime: 3502.289050579071
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 434
+Shortest route found is: 1006166.1123250924
+Runtime: 3511.4411177635193
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 435
+Shortest route found is: 1006166.1123250924
+Runtime: 3521.634474992752
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 436
+Shortest route found is: 1006166.1123250924
+Runtime: 3531.6257843971252
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 437
+Shortest route found is: 1006166.1123250924
+Runtime: 3542.2299263477325
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 438
+Shortest route found is: 1006166.1123250924
+Runtime: 3552.355322599411
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 439
+Shortest route found is: 1006166.1123250924
+Runtime: 3562.1963527202606
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 440
+Shortest route found is: 1006166.1123250924
+Runtime: 3572.8495626449585
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 441
+Shortest route found is: 1006166.1123250924
+Runtime: 3582.9470674991608
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 442
+Shortest route found is: 1006166.1123250924
+Runtime: 3592.2059273719788
+
+------------------------------------------------------------------------------------
+Running Genetic Search Using Reproduce And Mutation...
+Generation 443
+Shortest route found is: 1006166.1123250924
+Runtime: 3601.4755458831787
+
+------------------------------------------------------------------------------------
+Timeout!
+Population Size: 20
+Mutate Probability 0.8
+Estimated Allowed Time: 3600
+Shortest route found is: 1006166.1123250924
+Good permutaion?: True
